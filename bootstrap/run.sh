@@ -6,4 +6,3 @@ df -h
 #sudo ls -ltrah
 docker ps
 docker volume ls
-echo -e "Hej"

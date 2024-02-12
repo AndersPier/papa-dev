@@ -5,3 +5,4 @@ df -h
 #echo -e "${USER} was here" > ~/kilroy-was-here
 #sudo ls -ltrah
 docker ps
+docker volume ls

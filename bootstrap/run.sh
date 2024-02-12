@@ -5,4 +5,4 @@ echo -e "\n"
 echo -e "Running compose stacks:"
 docker compose ls
 
-echo -e "The end"
+echo -e "The end!"

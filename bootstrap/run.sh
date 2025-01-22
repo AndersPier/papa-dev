@@ -5,6 +5,6 @@ echo -e "\n"
 echo -e "Running compose stacks:"
 docker compose ls
 
-docker compose down pete-code-server
+echo -e "some docker compose down command"
+echo -e "some docker compose up command"
 echo -e "The end!"
-docker compose up -d pete-code-server
